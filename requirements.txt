@@ -1,0 +1,5 @@
+numpy
+netCDF4
+requests
+pyaxiom>=1.0.9
+pytz
